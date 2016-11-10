@@ -1,0 +1,11 @@
+{
+  "name": "zsjhtml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
